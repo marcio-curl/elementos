@@ -1,0 +1,13 @@
+body .modal {
+	overflow-y: auto;
+}
+
+ul ul {
+	list-style-type: none;
+}
+
+/*
+.comentarios {
+	padding-left: 2em;	
+}
+*/
